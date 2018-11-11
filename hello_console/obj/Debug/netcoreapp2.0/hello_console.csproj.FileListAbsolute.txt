@@ -1,0 +1,14 @@
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/hello_console.deps.json
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/hello_console.runtimeconfig.json
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/hello_console.runtimeconfig.dev.json
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/hello_console.dll
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/hello_console.pdb
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.csprojResolveAssemblyReference.cache
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.csproj.CoreCompileInputs.cache
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.AssemblyInfoInputs.cache
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.AssemblyInfo.cs
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.dll
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.pdb
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/System.Windows.Forms.dll
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/bin/Debug/netcoreapp2.0/Accessibility.dll
+/home/rusty/programming/mono/hello_console/hello_console/hello_console/obj/Debug/netcoreapp2.0/hello_console.csproj.CopyComplete
